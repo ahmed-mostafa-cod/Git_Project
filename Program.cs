@@ -1,16 +1,10 @@
 ﻿
 Console.WriteLine("Hello, World From C# in VisualStudio1!");
 Console.WriteLine("Hello, World From C# in VisualStudio!");
-Console.WriteLine("Hello, World From C# in VisualStudio!");
 
-Console.WriteLine("Hello, World From C# in VisualStudio!");
-Console.WriteLine("Hello, World From C# in VisualStudio!");
-Console.WriteLine("Hello, World From C# in VisualStudio........!");
-Console.WriteLine("Hello, World From C# in VisualStudio!");
-Console.WriteLine("Hello, World From C# in VisualStudio!");
-Console.WriteLine("Hello, World From C# in VisualStudio!00000000000");
-Console.WriteLine("Hello, World From C# in VisualStudio!");
-Console.WriteLine("Hello, World From C# in VisualStudio!");
+
+
+
 Console.WriteLine("Hello, World From C# in VisualStudio!     ");
 Console.WriteLine("Hello, World From C# in VisualStudio!");
 Console.WriteLine("Hello, World From C# in VisualStu");
@@ -94,13 +88,12 @@ Console.WriteLine("Hello, World From C# in VisualStudio!");
 Console.WriteLine("Hello, World From C# in VisualStudio!");
 Console.WriteLine("Hello, World From C# in VisualStudio!");
 Console.WriteLine("Hello, World From C# in VisualStudio!");
+
+
+
 Console.WriteLine("Hello, World From C# in VisualStudio!");
-Console.WriteLine("Hello, World From C# in VisualStudio!");
-Console.WriteLine("Hello, World From C# in VisualStudio!");
-Console.WriteLine("Hello, World From C# in VisualStudio!");
-Console.WriteLine("Hello, World From C# in VisualStudio!");
-Console.WriteLine("Hello, World From C# in VisualStudio!");
-Console.WriteLine("Hello, World From C# in VisualStudio!");
+
+
 Console.WriteLine("Hello, World From C# in VisualStudio!");
 Console.WriteLine("Hello, World From C# in VisualStudio!");
 Console.WriteLine("Hello, World From C# in VisualStudio103!");
